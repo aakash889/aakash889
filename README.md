@@ -65,7 +65,7 @@
 
       <!-- RIGHT COLUMN: MOB PSYCHO ASCII ART -->
       <td width="50%" valign="top" align="right" style="border: none;">
-        <pre style="font-size: 4px; line-height: 4px; letter-spacing: 0px; font-family: monospace; color: #ffffff; background: #0d1117; padding: 10px; text-align: left;">
+<pre style="font-size: 3px; line-height: 3px; font-family: monospace; white-space: pre; background: #0d1117; color: #ffffff; padding: 10px;">
 Oo.      O##O: O################Ooo. o8####O: ooo#oooooooooooooOo
 .80.     8###8oO######O800#######8Oooo###O: OOO#OOOOOOOOOOOOOOO.
 .80.     8###88#O####o:   :o8800#88###O80  oOOOO#OOOOOOOOOO: OO.
@@ -129,7 +129,7 @@ O######Oo.                                       oO888######
  ##O80   .                                             8.
  ##.                                                   8#
  O:                                                    0#
-        </pre>
+</pre>
       </td>
     </tr>
   </table>
