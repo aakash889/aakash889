@@ -57,7 +57,7 @@ full-stack experiments and security-focused projects.
 
 <td width="48%" valign="top">
 
-<img src="./assets/MobPsycho100 Ascii.jpeg" width="100%" alt="Mob Psycho ASCII Art">
+<img src="./assets/mob-psycho.jpeg" width="100%" alt="Mob Psycho ASCII Art">
 
 </td>
 </tr>
