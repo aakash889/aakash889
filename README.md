@@ -57,7 +57,7 @@ full-stack experiments and security-focused projects.
 
 <td width="48%" valign="top">
 
-<img src="https://raw.githubusercontent.com/aakash889/aakash889/main/assets/MobPsycho100%20Ascii.jpeg" width="100%" alt="Mob Psycho ASCII Art">
+<img src="mob-psycho-ascii.jpeg" width="100%" alt="Mob Psycho ASCII Art">
 
 </td>
 </tr>
