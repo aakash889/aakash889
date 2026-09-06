@@ -192,7 +192,7 @@ repeat.
 
 <div align="center">
 
-<img src="./assets/mob-psycho-ascii.png" width="100%" alt="Mob Psycho ASCII Art">
+<img src="./assets/mob-psycho-ascii.jpeg" width="100%" alt="Mob Psycho ASCII Art">
 
 </div>
 
