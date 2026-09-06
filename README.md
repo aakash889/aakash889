@@ -37,9 +37,6 @@ I'm a software developer and student focused on building practical projects and 
 
 ## 02 / Tech stack
 
-## `02` / TECH STACK
-
-## `02` / TECH STACK
 
 <div align="center">
 
