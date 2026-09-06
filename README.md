@@ -1,7 +1,7 @@
 <div align="left">
   <table border="0" style="border-collapse: collapse; border: none; width: 100%;">
     <tr>
-      <!-- LEFT COLUMN -->
+      <!-- LEFT COLUMN: BIO & STACK -->
       <td width="50%" valign="top" style="border: none; padding-right: 20px;">
         <h1 align="left" style="font-family: serif; font-size: 32px; margin-bottom: 0;">Aakash</h1>
         <p align="left" style="font-size: 11px; letter-spacing: 2px; font-weight: bold; margin-top: 5px; color: #888;">
@@ -63,9 +63,73 @@
         </p>
       </td>
 
-      <!-- RIGHT COLUMN (MOB PSYCHO 100 ASCII ART) -->
+      <!-- RIGHT COLUMN: MOB PSYCHO ASCII ART -->
       <td width="50%" valign="top" align="right" style="border: none;">
-        <img src="https://raw.githubusercontent.com/aakash889/aakash889/main/MobPsycho100%20Ascii.jpeg" width="100%" alt="Mob Psycho ASCII Art" />
+        <pre style="font-size: 4px; line-height: 4px; letter-spacing: 0px; font-family: monospace; color: #ffffff; background: #0d1117; padding: 10px; text-align: left;">
+Oo.      O##O: O################Ooo. o8####O: ooo#oooooooooooooOo
+.80.     8###8oO######O800#######8Oooo###O: OOO#OOOOOOOOOOOOOOO.
+.80.     8###88#O####o:   :o8800#88###O80  oOOOO#OOOOOOOOOO: OO.
+o80      #####Oo### #O      oo:088##8O8##OOooo#Oooooooooo:  OO.
+8##o.    ##### o ##8.08.           o8O#8 .o##OOOOOOOOOO:    OO.
+###8O.   #####   80. .#             o880  #####8880OO: OOOOOOO.
+8###8.00######   :O:  :#             :00. #####8888000:   OO.
+8####o08##88O                         O.  #08##8O#80ooo: o08.
+8########8Oo88                               8. O##8Oo#O: oO:  08.
+########8                                      : 8#8##o:OO: OO#.
+8#######                                         O#8##ooo:  O#O.
+8#######O                                        : #8##o:  o80o
+8#######8O                                         #800: O####
+######8:88:                                        ##88OO#####
+######8.8.:                                        #8##o######
+#######oO                                          8O#######
+#######88                                          8o#O#####
+######888                                          O.O  ######
+######8 o                                          O.    #####8
+######8.                                                OO#####
+######8.                                               : OO###80
+######88.                                                ###8O
+#####oo o                                               o###oo0
+######O                                                 ###ooo0
+######                                                  o8#oO80
+######8.                                                 o8#O8:
+######8O.                                                O8#80:
+#######O: .               .oo.                 .          o8#80:
+#######o :.              o####:              .8###:      OO o##O:
+#######  #oo             8#####              ######8     80#O##:
+#######oO##880           O#####O             O######.    .O###o:
+#######. #0880            .08O.               .08O       o#####o
+#######oo#O                                             :  ####Oo
+######oO##80                                            O########
+######oo##80                                           . :O#####O
+########O8088                                         O8#######o
+######o.OO.                                          8#########
+8#####oO###.                                        .8########::00
+8#####O###88                                       .O###########08:
+:8####:OO88:                                       .##########88o:
+O######Oo.                                       oO888######
+.O###o.   ###8                             .######8######.
+ o####800. .#.08                          .##########OoOO###8:
+  #####o.  ###Oo8                         ##########O:0:8###:
+ O##0: O0O :  O                               ######oo8oo#
+ #88##O:0#####O:08                             ####ooO#
+ #######oo#  .###O                            #oo####
+ ########O.OO#8888                             ##0#
+ #######O  ######                              ##
+ ######O   ########                             O
+ 8####8    #########                           O######
+ O######   ##########                         O######
+ .####88    #########                         O#######
+ O#####88    #######.                        O########
+ O#####88oo########.                        O###oo
+ 8#######O#######8O                        O##o
+ ######8###oo                               O##
+ ######8. ###o:                              .O: #8##oo##
+ #######O O#80                                 OO: #O ###
+ ####o.  O#.                                          08#
+ ##O80   .                                             8.
+ ##.                                                   8#
+ O:                                                    0#
+        </pre>
       </td>
     </tr>
   </table>
