@@ -1,90 +1,92 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3A5F&height=180&section=header&text=Aakash%20Dhamel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20Student%20%7C%20Java%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F3A5F&center=true&vCenter=true&width=600&lines=I+write+code+because+%22looked+great+in+my+head%22;is+still+not+a+deployment+strategy.;Exploring+Linux%2C+Java+Full+Stack+%26+Cybersecurity." alt="Typing SVG" />
-
-</div>
-
 <table>
 <tr>
 <td width="58%" valign="top">
 
-### 📍 Madanapalle, Andhra Pradesh :: India
+<h1>Aashish<br>Thakuri</h1>
 
-### 01 / About me
+<h3>DATA SCIENCE STUDENT</h3>
 
-B.Tech Computer Science Engineering student with an interest in
-software development and Java full-stack development. Experienced
-with foundational programming and web technologies, with hands-on
-work in personal web projects and ongoing exploration of Linux and
-server technologies.
+<p><b>I WRITE CODE BECAUSE "LOOKED GREAT IN MY HEAD"<br>IS STILL NOT A DEPLOYMENT STRATEGY.</b></p>
 
-I'm interested in building practical software solutions and
-developing skills in cybersecurity — turning ideas into things
-that actually run, not just things that sound good in a pitch.
+<p><small>KATHMANDU UNIVERSITY :: NEPAL</small></p>
 
-### 02 / Languages and tools
+<br>
 
+<h3>01 / About me</h3>
+<p><small>
+I see every interface as a piece of art with a purpose.<br>
+I turn symbols, stories, and ideas into visual language,<br>
+then build them into websites people can feel and understand.
+</small></p>
+<p><small>
+Design is not decoration to me.<br>
+Every line, movement, and interaction should mean something.
+</small></p>
+
+<h3>02 / Languages and tools</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,mysql" />
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux" />
-<img src="https://skillicons.dev/icons?i=vercel,netlify" />
+<table>
+<tr>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36"/><br><sub><small>HTML5</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36"/><br><sub><small>CSS</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36"/><br><sub><small>JAVASCRIPT</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36"/><br><sub><small>TYPESCRIPT</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36"/><br><sub><small>REACT</small></sub></td>
+</tr>
+<tr>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36"/><br><sub><small>PYTHON</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36"/><br><sub><small>NODE.JS</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" height="36"/><br><sub><small>FASTAPI</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36"/><br><sub><small>MYSQL</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36"/><br><sub><small>SUPABASE</small></sub></td>
+</tr>
+<tr>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36"/><br><sub><small>TAILWIND</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="36" height="36"/><br><sub><small>VERCEL</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36" height="36"/><br><sub><small>OPENCV</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36"/><br><sub><small>NUMPY</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36"/><br><sub><small>PANDAS</small></sub></td>
+</tr>
+<tr>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36"/><br><sub><small>GIT</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36"/><br><sub><small>GITHUB</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36"/><br><sub><small>DOCKER</small></sub></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 </p>
 
-**Currently learning:** Java Full Stack Development · Docker · Kubernetes · Data Structures & Algorithms
+<h3>03 / What I think</h3>
+<p><small>
+Technology should not flatten creativity;<br>
+it should give ideas form.
+</small></p>
+<p><small>
+I build to make difficult systems visible,<br>
+intuitive, expressive, and easier to understand.
+</small></p>
+<p><small>
+Every interaction should carry intention, not just function.
+</small></p>
 
-### 03 / Projects
+<h3>04 / Beyond code</h3>
+<p><small>
+Music and writing keep my imagination moving.<br>
+I am always observing, learning, testing, and refining.
+</small></p>
 
-**🌐 Personal Portfolio Website**
-React + Vite, responsive design with animations, deployed on Netlify
-→ [aakashdhamel.netlify.app](https://aakashdhamel.netlify.app)
-
-**📦 SaaS Parcel Delivery Platform** *`in progress`*
-A web platform connecting people who need to send parcels with travelers heading toward the same destination. Built the initial login page; exploring the peer-to-peer delivery workflow.
-
-**🖥️ Linux Server on a Smartphone** *`in progress`*
-Turning a smartphone into a Linux-based server environment — learning setup, administration, and internals using Arch Linux.
-
-### 04 / Certifications
-
-- The Joy of Computing using Python — NPTEL *(in progress)*
-
-### 05 / Beyond code
-
-`Software Development` `Java Full Stack` `Cybersecurity` `Linux` `Cloud & DevOps`
-
-🗣️ Nepali (native) · English (fluent) · Hindi · Telugu · Spanish
+<h3>05 / Principle</h3>
+<p><i><small>
+Every interface can carry a symbol.<br>
+Every interaction can tell part of the story.
+</small></i></p>
 
 </td>
-<td width="42%" valign="top" align="center">
+<td width="42%" valign="top">
 
-<img src="assets/banner.png" width="100%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=aakash889&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1F3A5F&icon_color=1F3A5F" width="100%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aakash889&theme=dark&hide_border=true&background=0d1117&ring=1F3A5F&fire=1F3A5F" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakash889&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1F3A5F" width="100%" />
+<img src="./assets/ascii-portrait.svg" width="100%" alt="ASCII portrait of Aashish Thakuri">
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-### 📫 Reach me
-
-[![Gmail](https://img.shields.io/badge/-aakashdhamel16%40gmail.com-1F3A5F?style=flat&logo=gmail&logoColor=white)](mailto:aakashdhamel16@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1F3A5F?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-dhamel-ba4759343)
-[![GitHub](https://img.shields.io/badge/-GitHub-1F3A5F?style=flat&logo=github&logoColor=white)](https://github.com/aakash889)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-1F3A5F?style=flat&logo=vercel&logoColor=white)](https://aakashdhamel.netlify.app)
-
-<img src="https://komarev.com/ghpvc/?username=aakash889&color=1F3A5F&style=flat&label=Profile+Views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3A5F&height=100&section=footer" width="100%"/>
-
-</div>
