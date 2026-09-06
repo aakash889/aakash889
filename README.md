@@ -1,67 +1,10 @@
-<table>
-<tr>
-<td width="55%" valign="top">
-
-# Aakash Dhamel
-
-### B.TECH CSE STUDENT · JAVA FULL-STACK DEVELOPER
-
-**I write code because "looked great in my head" is still not a deployment strategy.**
-
-`MADANAPALLE, ANDHRA PRADESH :: INDIA`
-
----
-
-### 01 / About me
-
-B.Tech Computer Science Engineering student with an interest in
-software development and Java full-stack development.
-
-I turn ideas into working web experiences, explore Linux and
-server internals for fun, and I'm always looking for the next
-practical problem worth building a solution for.
-
-### 02 / Languages and tools
-
-![](https://skillicons.dev/icons?i=html,css,js,react,vite,java,py,c,cpp,mysql)
-![](https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,vercel,netlify)
-
-### 03 / Projects
-
-**Personal Portfolio** — React + Vite, deployed on Netlify
-[aakashdhamel.netlify.app](https://aakashdhamel.netlify.app)
-
-**SaaS Parcel Delivery Platform** *(in progress)*
-Connects people sending parcels with travelers headed the same way
-
-**Linux Server on a Smartphone** *(in progress)*
-Running and administering a Linux server environment on Arch Linux
-
-### 04 / Beyond code
-
-Software Development · Java Full Stack · Cybersecurity · Linux · Cloud & DevOps
-
-Nepali (native) · English (fluent) · Hindi · Telugu · Spanish
-
----
-
-📫 [aakashdhamel16@gmail.com](mailto:aakashdhamel16@gmail.com) · [LinkedIn](https://linkedin.com/in/aakash-dhamel-ba4759343) · [GitHub](https://github.com/aakash889)
-
+ <h1>Aakash<br>Dhamel</h1>  <b>B.TECH CSE STUDENT — JAVA FULL-STACK (LOADING…)</b>  <p><i>"It works on my phone" is a valid deployment strategy.</i></p>  <sub>MITS MADANAPALLE • ANDHRA PRADESH, INDIA</sub>  <br><br>  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3000&pause=900&color=F3EFE6&center=false&vCenter=false&width=620&height=120&lines=%22It+works+on+my+phone%22+is+a+valid+deployment+strategy.;Java+full-stack%3A+still+compiling%E2%80%A6;I+use+Arch.+btw.;Sleep+deprecated.+Curiosity+100%25" alt="typing">  <h3>01 / About me</h3>  <p>  I turn smartphones into Linux servers and ideas into things that actually run.<br>  I break things on Arch so users never have to.<br>  Java full-stack in progress — the stack is heavy, but I lift.<br><br>  Currently at MITS, class of 2029: CGPA 8.0, gym streak ongoing, sleep deprecated.  </p>  <h3>02 / Languages and tools</h3>  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,bash,html,css,js,react,vite,mysql,git,github,docker,kubernetes,linux,vscode,spring,netlify,md&perline=5&theme=dark" alt="tech stack">  <br><sub>currently downloading → java full stack • docker • kubernetes • dsa</sub>  <h3>03 / What I think</h3>  <p>  Code should be practical, design should be honest, and error messages should be poetry.<br>  The cloud is cool. But have you tried carrying your server in your pocket?<br>  If CSS is the final boss, I'm speedrunning it.  </p>  <h3>04 / Beyond code</h3>  <p>  Gym between commits — the only streak that never breaks.<br>  Football at night, debugging at 2 AM. Both are footwork.<br>  Momos &gt; documentation. (Don't tell the docs.)  </p>  <h3>05 / Principle</h3>  <p>  <i>"Code should run. Design should speak.<br>  Servers should fit in a pocket."</i>  </p></td><td width="42%" valign="top">
+┌─────────────────────────────────────────────┐│  aakash@arch ~ $                            ││                                             ││  $ whoami                                   ││  aakash dhamel — b.tech cse '29             ││                                             ││  $ cat status.txt                           ││  java .......... compiling…                 ││  arch ........... installed. obviously.     ││  gym ............. 76% streak               ││  sleep ........... 23% (canon)              ││                                             ││  $ sudo hire-me                             ││  email copied ✓ now we're talking           ││                                             ││  ░▒▓█ compiling gains… don't rush me █▓▒░   │└─────────────────────────────────────────────┘
 </td>
-<td width="45%" valign="top" align="center">
+06 / GitHub stats — the lobby where the grind is visible
+GitHub stats	Top languages
+GitHub streak
+emailgithublinkedinportfolioarch
 
-<img src="assets/banner.png" width="100%" />
-
-</td>
-</tr>
-</table>
-
-<!--
-SETUP
-1. This repo must be named exactly "aakash889" (your GitHub username)
-   for this README to render on your profile page.
-2. Create a folder named "assets" in the repo root and upload
-   banner.png into it (the </> ASCII-art graphic) so the image path
-   above resolves correctly.
-3. Swap in real links/certifications as they're finalized.
--->
+views
+© 2025 aakash dhamel — all bugs reserved. i use arch, btw.
