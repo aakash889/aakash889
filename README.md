@@ -1,78 +1,67 @@
-## Hi there 👋
 <table>
 <tr>
 <td width="55%" valign="top">
 
-# Your Name
+# Aakash Dhamel
 
-### YOUR TITLE / ROLE
+### B.TECH CSE STUDENT · JAVA FULL-STACK DEVELOPER
 
-**"A punchy one-line tagline about how you build or think."**
+**I write code because "looked great in my head" is still not a deployment strategy.**
 
-`YOUR CITY :: YOUR COUNTRY`
+`MADANAPALLE, ANDHRA PRADESH :: INDIA`
 
 ---
 
 ### 01 / About me
 
-A few lines about how you approach your work —
-what drives you, what you care about, what makes
-your work distinct.
+B.Tech Computer Science Engineering student with an interest in
+software development and Java full-stack development.
 
-Add a second short paragraph here if you want a
-philosophy-style statement, like the example did.
+I turn ideas into working web experiences, explore Linux and
+server internals for fun, and I'm always looking for the next
+practical problem worth building a solution for.
 
 ### 02 / Languages and tools
 
-![](https://skillicons.dev/icons?i=html,css,js,ts,react,python,nodejs,fastapi,mysql)
-![](https://skillicons.dev/icons?i=tailwind,vercel,opencv,git,github,docker)
+![](https://skillicons.dev/icons?i=html,css,js,react,vite,java,py,c,cpp,mysql)
+![](https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,vercel,netlify)
 
-### 03 / What I think
+### 03 / Projects
 
-A short belief statement about your field —
-what you value, what you optimize for.
+**Personal Portfolio** — React + Vite, deployed on Netlify
+[aakashdhamel.netlify.app](https://aakashdhamel.netlify.app)
 
-Another line or two here if useful.
+**SaaS Parcel Delivery Platform** *(in progress)*
+Connects people sending parcels with travelers headed the same way
+
+**Linux Server on a Smartphone** *(in progress)*
+Running and administering a Linux server environment on Arch Linux
 
 ### 04 / Beyond code
 
-What you do outside of the technical work —
-hobbies, interests, anything that rounds you out.
+Software Development · Java Full Stack · Cybersecurity · Linux · Cloud & DevOps
+
+Nepali (native) · English (fluent) · Hindi · Telugu · Spanish
+
+---
+
+📫 [aakashdhamel16@gmail.com](mailto:aakashdhamel16@gmail.com) · [LinkedIn](https://linkedin.com/in/aakash-dhamel-ba4759343) · [GitHub](https://github.com/aakash889)
 
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="YOUR_ASCII_OR_BANNER_IMAGE_URL_HERE" width="100%" />
+<img src="assets/banner.png" width="100%" />
 
 </td>
 </tr>
 </table>
 
 <!--
-SETUP NOTES
-1. Repo name must exactly match your GitHub username.
-2. Replace "Your Name", the tagline, and section text with your own.
-3. Swap the skillicons.dev "i=" list for your actual stack:
-   https://skillicons.dev
-4. Replace YOUR_ASCII_OR_BANNER_IMAGE_URL_HERE with an image you host
-   (upload to the repo itself, e.g. /assets/banner.png, and reference
-   it as a relative path) or an ASCII-art image you generate at
-   https://asciiart.club or with the ascii-image-converter CLI tool.
-5. Optional: add stats/streak badges below the table, e.g.
-   ![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
--->
-
-<!--
-**aakash889/aakash889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+SETUP
+1. This repo must be named exactly "aakash889" (your GitHub username)
+   for this README to render on your profile page.
+2. Create a folder named "assets" in the repo root and upload
+   banner.png into it (the </> ASCII-art graphic) so the image path
+   above resolves correctly.
+3. Swap in real links/certifications as they're finalized.
 -->
