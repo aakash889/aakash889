@@ -1,10 +1,146 @@
- <h1>Aakash<br>Dhamel</h1>  <b>B.TECH CSE STUDENT — JAVA FULL-STACK (LOADING…)</b>  <p><i>"It works on my phone" is a valid deployment strategy.</i></p>  <sub>MITS MADANAPALLE • ANDHRA PRADESH, INDIA</sub>  <br><br>  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3000&pause=900&color=F3EFE6&center=false&vCenter=false&width=620&height=120&lines=%22It+works+on+my+phone%22+is+a+valid+deployment+strategy.;Java+full-stack%3A+still+compiling%E2%80%A6;I+use+Arch.+btw.;Sleep+deprecated.+Curiosity+100%25" alt="typing">  <h3>01 / About me</h3>  <p>  I turn smartphones into Linux servers and ideas into things that actually run.<br>  I break things on Arch so users never have to.<br>  Java full-stack in progress — the stack is heavy, but I lift.<br><br>  Currently at MITS, class of 2029: CGPA 8.0, gym streak ongoing, sleep deprecated.  </p>  <h3>02 / Languages and tools</h3>  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,bash,html,css,js,react,vite,mysql,git,github,docker,kubernetes,linux,vscode,spring,netlify,md&perline=5&theme=dark" alt="tech stack">  <br><sub>currently downloading → java full stack • docker • kubernetes • dsa</sub>  <h3>03 / What I think</h3>  <p>  Code should be practical, design should be honest, and error messages should be poetry.<br>  The cloud is cool. But have you tried carrying your server in your pocket?<br>  If CSS is the final boss, I'm speedrunning it.  </p>  <h3>04 / Beyond code</h3>  <p>  Gym between commits — the only streak that never breaks.<br>  Football at night, debugging at 2 AM. Both are footwork.<br>  Momos &gt; documentation. (Don't tell the docs.)  </p>  <h3>05 / Principle</h3>  <p>  <i>"Code should run. Design should speak.<br>  Servers should fit in a pocket."</i>  </p></td><td width="42%" valign="top">
-┌─────────────────────────────────────────────┐│  aakash@arch ~ $                            ││                                             ││  $ whoami                                   ││  aakash dhamel — b.tech cse '29             ││                                             ││  $ cat status.txt                           ││  java .......... compiling…                 ││  arch ........... installed. obviously.     ││  gym ............. 76% streak               ││  sleep ........... 23% (canon)              ││                                             ││  $ sudo hire-me                             ││  email copied ✓ now we're talking           ││                                             ││  ░▒▓█ compiling gains… don't rush me █▓▒░   │└─────────────────────────────────────────────┘
-</td>
-06 / GitHub stats — the lobby where the grind is visible
-GitHub stats	Top languages
-GitHub streak
-emailgithublinkedinportfolioarch
+<table>
+<tr>
+<td width="58%" valign="top">
 
-views
-© 2025 aakash dhamel — all bugs reserved. i use arch, btw.
+<h1>Aashish<br>Thakuri</h1>
+
+<h3>DATA SCIENCE STUDENT</h3>
+
+<p><b>I WRITE CODE BECAUSE "LOOKED GREAT IN MY HEAD"<br>IS STILL NOT A DEPLOYMENT STRATEGY.</b></p>
+
+<p><small>KATHMANDU UNIVERSITY :: NEPAL</small></p>
+
+<br>
+
+<h3>01 / About me</h3>
+<p><small>
+I see every interface as a piece of art with a purpose.<br>
+I turn symbols, stories, and ideas into visual language,<br>
+then build them into websites people can feel and understand.
+</small></p>
+<p><small>
+Design is not decoration to me.<br>
+Every line, movement, and interaction should mean something.
+</small></p>
+
+<h3>02 / Languages and tools</h3>
+<p>
+<table>
+<tr>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36"/><br><sub><small>HTML5</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36"/><br><sub><small>CSS</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36"/><br><sub><small>JAVASCRIPT</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36"/><br><sub><small>TYPESCRIPT</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36"/><br><sub><small>REACT</small></sub></td>
+</tr>
+<tr>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36"/><br><sub><small>PYTHON</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36"/><br><sub><small>NODE.JS</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" height="36"/><br><sub><small>FASTAPI</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36"/><br><sub><small>MYSQL</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36"/><br><sub><small>SUPABASE</small></sub></td>
+</tr>
+<tr>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36"/><br><sub><small>TAILWIND</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="36" height="36"/><br><sub><small>VERCEL</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36" height="36"/><br><sub><small>OPENCV</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36"/><br><sub><small>NUMPY</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36"/><br><sub><small>PANDAS</small></sub></td>
+</tr>
+<tr>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36"/><br><sub><small>GIT</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36"/><br><sub><small>GITHUB</small></sub></td>
+<td align="center" width="64"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36"/><br><sub><small>DOCKER</small></sub></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+</p>
+
+<h3>03 / What I think</h3>
+<p><small>
+Technology should not flatten creativity;<br>
+it should give ideas form.
+</small></p>
+<p><small>
+I build to make difficult systems visible,<br>
+intuitive, expressive, and easier to understand.
+</small></p>
+<p><small>
+Every interaction should carry intention, not just function.
+</small></p>
+
+<h3>04 / Beyond code</h3>
+<p><small>
+Music and writing keep my imagination moving.<br>
+I am always observing, learning, testing, and refining.
+</small></p>
+
+<h3>05 / Principle</h3>
+<p><i><small>
+Every interface can carry a symbol.<br>
+Every interaction can tell part of the story.
+</small></i></p>
+
+</td>
+<td width="42%" valign="top">
+
+<pre>
+.............................................
+.............................................
+.............................................
+.........................,,,,,,,,............
+......................,,,;;;;;;;;,,,.........
+....................,,,;;++++++++;;,,,.......
+..................,,,;;++********++;;,,,.......
+.................,,,;;+**########**+;;,,,....
+................,,,;;+**##%%%%%%##**+;;,,,...
+...............,,,;;+**##%%%%%%%%##**+;;,,,...
+..............,,,;;+**##%%%%%%%%%%##**+;;,,,.
+.............,,,;;+**##%%%%%%%%%%%%##**+;;,,,
+............,,,;;+**##%%%%%%%%%%%%%%%%##**+;;,,,
+...........,,,;;+**##%%%%%%%%%%%%%%%%%%##**+;;,
+..........,,,;;+**##%%%%%%%%%%%%%%%%%%%%##**+;;,
+.........,,,;;+**##%%%%%%%%%%%%%%%%%%%%%%##**+;
+........,,,;;+**##%%%%%%%%%%%%%%%%%%%%%%%%##**+;
+.......,,,;;+**##%%%%%%%%%%%%%%%%%%%%%%%%%%##**
+......,,,;;+**##%%%%%%%%%%%%%%%%%%%%%%%%%%%%##*
+.....,,,;;+**##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*
+....,,,;;+**##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*
+...,,,;;+**##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*
+..,,,;;+**##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*
+.,,,;;+**##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*
+,,,;;+**##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*
+,,;;+**##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*
+,;;+**##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*
+;;+**##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*
+;+**##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*
++**##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*
+**##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*
+*##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*
+##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*
+#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##*
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##**
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##**+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##**+;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##**+;;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##**+;;:
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##**+;;:.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##**+;;:..
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##**+;;:...
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##**+;;:....
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##**+;;:......
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##**+;;:.......
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##**+;;:........
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##**+;;:.........
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##**+;;:..........
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##**+;;:...........
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##**+;;:............
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%##**+;;:.............
+</pre>
+
+</td>
+</tr>
+</table>
