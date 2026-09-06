@@ -39,65 +39,56 @@ I'm a software developer and student focused on building practical projects and 
 
 ## `02` / TECH STACK
 
+## `02` / TECH STACK
+
 <div align="center">
 
-<a href="https://www.java.com/" title="Java">
-  <img src="https://skillicons.dev/icons?i=java&theme=light" width="50">
+<a href="#" title="C">
+<img src="https://skillicons.dev/icons?i=c&theme=light" width="50">
 </a>
-&nbsp;&nbsp;
 
-<a href="https://www.python.org/" title="Python">
-  <img src="https://skillicons.dev/icons?i=python&theme=light" width="50">
+<a href="#" title="Java">
+<img src="https://skillicons.dev/icons?i=java&theme=light" width="50">
 </a>
-&nbsp;&nbsp;
 
-<a href="https://en.cppreference.com/w/c" title="C">
-  <img src="https://skillicons.dev/icons?i=c&theme=light" width="50">
+<a href="#" title="Python">
+<img src="https://skillicons.dev/icons?i=python&theme=light" width="50">
 </a>
-&nbsp;&nbsp;
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
-  <img src="https://skillicons.dev/icons?i=html&theme=light" width="50">
+<a href="#" title="HTML">
+<img src="https://skillicons.dev/icons?i=html&theme=light" width="50">
 </a>
-&nbsp;&nbsp;
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
-  <img src="https://skillicons.dev/icons?i=css&theme=light" width="50">
+<a href="#" title="CSS">
+<img src="https://skillicons.dev/icons?i=css&theme=light" width="50">
 </a>
-&nbsp;&nbsp;
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-  <img src="https://skillicons.dev/icons?i=js&theme=light" width="50">
+<a href="#" title="JavaScript">
+<img src="https://skillicons.dev/icons?i=js&theme=light" width="50">
 </a>
-&nbsp;&nbsp;
 
-<a href="https://www.mysql.com/" title="MySQL">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="50">
+<a href="#" title="MySQL">
+<img src="https://skillicons.dev/icons?i=mysql&theme=light" width="50">
 </a>
-&nbsp;&nbsp;
 
-<a href="https://git-scm.com/" title="Git">
-  <img src="https://skillicons.dev/icons?i=git&theme=light" width="50">
+<a href="#" title="Git">
+<img src="https://skillicons.dev/icons?i=git&theme=light" width="50">
 </a>
-&nbsp;&nbsp;
 
-<a href="https://github.com/" title="GitHub">
-  <img src="https://skillicons.dev/icons?i=github&theme=light" width="50">
+<a href="#" title="GitHub">
+<img src="https://skillicons.dev/icons?i=github&theme=light" width="50">
 </a>
-&nbsp;&nbsp;
 
-<a href="https://www.linux.org/" title="Linux">
-  <img src="https://skillicons.dev/icons?i=linux&theme=light" width="50">
+<a href="#" title="Linux">
+<img src="https://skillicons.dev/icons?i=linux&theme=light" width="50">
 </a>
-&nbsp;&nbsp;
 
-<a href="https://code.visualstudio.com/" title="VS Code">
-  <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="50">
+<a href="#" title="VS Code">
+<img src="https://skillicons.dev/icons?i=vscode&theme=light" width="50">
 </a>
-&nbsp;&nbsp;
 
-<a href="https://www.docker.com/" title="Docker">
-  <img src="https://skillicons.dev/icons?i=docker&theme=light" width="50">
+<a href="#" title="Docker">
+<img src="https://skillicons.dev/icons?i=docker&theme=light" width="50">
 </a>
 
 </div>
