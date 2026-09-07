@@ -1,6 +1,6 @@
 <div align="center">
 
-# AAKASH DHAMEL
+# AAKASH Dhamel(CORPSE)
 ### SOFTWARE DEVELOPER
 
 `Java Full Stack • Cybersecurity • Linux • Open Source`
